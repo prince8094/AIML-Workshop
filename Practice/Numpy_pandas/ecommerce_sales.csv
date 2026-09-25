@@ -1,0 +1,16 @@
+OrderID,CustomerID,Product,Category,Quantity,Price,Discount,Region,Gender,Age,OrderDate
+1001,C001,Laptop,Electronics,1,55000,5000,North,Male,25,15-01-2024
+1002,C002,Phone,Electronics,2,25000,2000,South,Female,30,16-01-2024
+1003,C003,Shoes,Fashion,3,2000,200,West,Male,22,17-01-2024
+1004,C004,T-Shirt,Fashion,5,800,50,East,Female,28,18-01-2024
+1005,C005,Watch,Accessories,2,5000,500,North,Male,35,19-01-2024
+1006,C006,Headphones,Electronics,4,1500,100,South,Female,24,20-01-2024
+1007,C007,Bag,Fashion,1,2500,200,West,Male,27,21-01-2024
+1008,C008,Tablet,Electronics,1,30000,3000,East,Female,32,22-01-2024
+1009,C009,Shoes,Fashion,2,2000,100,North,Male,21,23-01-2024
+1010,C010,Watch,Accessories,3,5000,400,South,Female,29,24-01-2024
+1011,C011,Laptop,Electronics,1,60000,5000,West,Male,40,25-01-2024
+1012,C012,Phone,Electronics,2,28000,2500,East,Female,26,26-01-2024
+1013,C013,T-Shirt,Fashion,4,900,100,North,Male,23,27-01-2024
+1014,C014,Bag,Fashion,2,3000,250,South,Female,31,28-01-2024
+1015,C015,Headphones,Electronics,3,1800,150,West,Male,34,29-01-2024
